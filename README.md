@@ -1,4 +1,6 @@
 # team
 
 
-See [here](https://github.com/hyipteam/hyipteam.github.io)
+***
+|[:house: Home](https://github.com/hyip)|[Next :arrow_forward:](https://github.com/hyipscript/hyipscript.github.io)|
+|:----|----:|
