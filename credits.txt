@@ -1,0 +1,88 @@
+CREDITS
+
+Twitter Bootstrap
+http://twitter.github.com/bootstrap/
+Copyright 2012 Twitter, Inc.
+License:  Apache License, Version 2.0
+http://www.apache.org/licenses/LICENSE-2.0
+
+Foundation Icon Fonts
+http://www.zurb.com/playground/foundation-icons
+MIT license
+Copyright (c) 2012 ZURB, http://www.zurb.com/
+
+Camera slideshow v1.0.10
+http://www.pixedelic.com/plugins/camera/
+MIT license
+Copyright (c) 2012 by Manuel Masia - www.pixedelic.com
+
+jQuery Wookmark plugin 0.5
+http://www.wookmark.com/jquery-plugin/
+Copyright (c) 2009-2012 Christoph Ono (www.wookmark.com)
+Licensed under the MIT (http://www.opensource.org/licenses/mit-license.php) license.
+
+prettyPhoto v3.1.4
+© Copyright, Stephane Caron
+http://www.no-margin-for-errors.com/projects/prettyPhoto/
+Creative Commons 2.5 or GPLV2 license
+
+Vegas - jQuery plugin 
+Add awesome fullscreen backgrounds to your webpages.
+v 1.x
+Dual licensed under the MIT and GPL licenses.
+http://vegas.jaysalvat.com/
+Copyright (C) 2011 Jay Salvat
+http://jaysalvat.com/
+
+jQuery Easing v1.3
+http://gsgd.co.uk/sandbox/jquery/easing/
+Open source under the BSD License.
+Copyright © 2008 George McGinley Smith All rights reserved.
+
+Subtle Patterns
+Collection of high quality design patterns
+http://subtlepatterns.com/
+This work is licensed under a Creative Commons Attribution 3.0 Unported License.
+
+DuckFiles - Free Resources for Web Designers
+http://duckfiles.com
+License: http://duckfiles.com/licensing/
+
+PhotoDune
+http://photodune.net/
+(Extended Licence)
+
+Best PSD Freebies
+The ultimate place to get free PSD design resources handcrafted by Michael Reimer
+http://www.bestpsdfreebies.com
+
+Font Awesome 3.0
+License
+• The Font Awesome font is licensed under the SIL Open Font License - http://scripts.sil.org/OFL
+• Font Awesome CSS, LESS, and SASS files are licensed under the MIT License -
+    http://opensource.org/licenses/mit-license.html
+• The Font Awesome pictograms are licensed under the CC BY 3.0 License - http://creativecommons.org/licenses/by/3.0/
+• Attribution is no longer required in Font Awesome 3.0, but much appreciated:
+    "Font Awesome by Dave Gandy - http://fortawesome.github.com/Font-Awesome"
+Contact
+Email: dave@davegandy.com
+Twitter: http://twitter.com/fortaweso_me
+Work: Lead Product Designer @ http://kyruus.com
+
+Quicksand 1.3
+Copyright (c) 2010 Jacek Galanciak (razorjack.net) and agilope.com
+Dual licensed under the MIT and GPL version 2 licenses.
+Project site: http://razorjack.net/quicksand
+Github site: http://github.com/razorjack/quicksand
+
+jQuery carouFredSel 6.2.0
+http://caroufredsel.dev7studios.com
+Copyright (c) 2013 Fred Heusschen
+www.frebsite.nl
+Dual licensed under the MIT and GPL licenses.
+
+jquery.tweet.js
+http://tweet.seaofclouds.com/ 
+https://github.com/seaofclouds/tweet
+Copyright (c) 2008-2012 Todd Matthews & Steve Purcell
+Licensed under the MIT
