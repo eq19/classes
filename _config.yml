@@ -6,6 +6,8 @@ exclude:
 
 url: http://hyip.github.io
 name: The HYIP Project
-disqus_shortname: hyips
+topic: Team Work
+path: /team/work
 
+disqus_shortname: hyips
 google_analytics: UA-53222355-1
