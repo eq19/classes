@@ -18,6 +18,8 @@
       </html>
 ```
 
+<img src=https://user-images.githubusercontent.com/36441664/91654837-66fd5200-ead6-11ea-885f-26660998c1ac.png>
+
 ## Tabulate Prime
 
 Primes is formed by three (3) sets of twin prime pairs called _[The True Prime Pairs](https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)_. 
@@ -47,6 +49,8 @@ These primes are naturally distributed in three (3) forms of 12's multiplication
  ```
 
 Now we are going to see what is the purpose. Let's enter the journey of making **10<sup>n</sup> numbers becoming 10<sup>n</sup> primes** by the Δ1 flowing within the prime pairs.
+
+<img src=https://user-images.githubusercontent.com/36441664/74990717-97549b80-5476-11ea-82d1-2d03f37fa695.png>
 
 ## 1st Step: Q(10, 30)
 
