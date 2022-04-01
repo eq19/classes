@@ -18,6 +18,8 @@
       </html>
 ```
 
+<img src=https://user-images.githubusercontent.com/36441664/73946420-7cd3db80-4928-11ea-8cdf-1859c18a6c94.png>
+
 <img src=https://user-images.githubusercontent.com/36441664/91654837-66fd5200-ead6-11ea-885f-26660998c1ac.png>
 
 ## Tabulate Prime
