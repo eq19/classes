@@ -1,6 +1,22 @@
 |[![The HYIP Project](https://avatars1.githubusercontent.com/u/8466209?v=10&s=20)](https://github.com/hyip) |This [repo](https://github.com/hyipworld/hyipworld.github.io "Repository") is courtesy of [The Quantum Project](https://github.com/eq19 "Primes Recmbination Program"). Find all of them on [The Project Map](https://github.com/eq19/info/wiki/maps#project-map "Project Mapping").|[![The HYIP Project](https://tophyipmonitor.files.wordpress.com/2015/06/ant.png?w=20)](https://tophyipmonitor.wordpress.com/hyip-forums/nature-4/#main) |
 |:----|----|----:|
 
+# Introduction
+
+```html
+      <html> (29=10th prime)
+        Δ     <head> (10)
+        |          <style>  - 5 ‹----
+        |                     Δ      |
+        3(29)‹------------ favicon - 2,3,5=π(5)
+                   </style>          |
+             </head>               (89²)
+              <body> (19)            |
+                   <script> - 7 ‹----
+                   </script>
+             </body
+      </html>
+```
 
 # Tabulate Prime by The Power of 168
 
