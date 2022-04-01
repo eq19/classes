@@ -18,7 +18,7 @@
       </html>
 ```
 
-# Tabulate Prime by The Power of 168
+## Tabulate Prime
 
 Primes is formed by three (3) sets of twin prime pairs called _[The True Prime Pairs](https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)_. 
 
