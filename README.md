@@ -52,8 +52,6 @@ These primes are naturally distributed in three (3) forms of 12's multiplication
 
 Now we are going to see what is the purpose. Let's enter the journey of making **10<sup>n</sup> numbers becoming 10<sup>n</sup> primes** by the Δ1 flowing within the prime pairs.
 
-<img src=https://user-images.githubusercontent.com/36441664/74990717-97549b80-5476-11ea-82d1-2d03f37fa695.png>
-
 ## 1st Step: Q(10, 30)
 
 Let's put this prime pairs (5, 7, 11, 13, 17,19) in reverse (19, 17, 13, 11, 7, 5) then assign them as a default condition. Consider the (12/2)th = 6th prime = 13 is formed as an hexagon cube called the [Metatron's Cube](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch). 
@@ -90,6 +88,8 @@ Then assign 19 as a set of 10 numbers that consist of 4 primes (2,3,5,7). Conver
 ```
 
 See how those primes reacted to compensate the Δ1 by spreading the gap in to a bunch of Δ's starting from the prime number 7.
+
+<img src=https://user-images.githubusercontent.com/36441664/74990717-97549b80-5476-11ea-82d1-2d03f37fa695.png>
 
 ## 2nd Step: Q(30, 36)
 
