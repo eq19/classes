@@ -7,5 +7,5 @@ google:
   gtag: GTM-PGWT4RS
   adsense: ca-pub-3677197599836940
 
-base_tag: #1st-step-q10-30
+base_tag: 1st-step-q10-30
 remote_theme: FeedTheme/jekyll-rtd-theme
