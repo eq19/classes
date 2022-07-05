@@ -1,0 +1,31 @@
+{%- for item in primes                        -%}
+{%-   assign loop = forloop.index             -%}
+{%-   if id <= item                           -%}
+{%-     break                                 -%}
+{%-   endif                                   -%}
+{%- endfor                                    -%}
+
+{%- assign data_id = '['                       -%}
+{%- for item in array reversed                -%}
+{%-   assign size = item | size | minus: 1    -%}
+{%-   assign lead = primes[size]              -%}
+{%-   assign data_id = data_id 
+          | append: lead
+          | append: ','                       -%}
+{%- endfor                                    -%}
+
+{%- assign data_id = data_id 
+      | append: prime
+      | append: ']'                           -%}
+		  
+{%- assign aria_flowto = '('
+      | append: bond
+      | append: ';'
+      | append: lexer
+      | append: ';'
+      | append: parser
+      | append: ';'
+      | append: syntax
+      | append: ')'                           -%}
+
+{%- include core/node.liquid                  -%}

@@ -1,0 +1,56 @@
+{%- assign index = include.index | default: 0  -%}
+
+{%- unless array                               -%}
+{%-   assign array = '' | split: ','           -%}
+{%- endunless                                  -%}
+
+{%- unless array[index]                        -%}
+
+{%-   assign var = '' | split: ','             -%}
+{%-   assign var = var | push: probe           -%}
+{%-	  assign array = array | push: var         -%}
+
+{%- else                                       -%}
+
+{%-   assign var = array[index]                -%}
+{%-   assign var = var | push: probe           -%}
+
+{%-   assign dummy = '' | split: ','           -%}
+{%-   for item in array                        -%}
+{%-     assign dummy = dummy | push: item      -%}
+{%-   endfor                                   -%}
+
+{%-   assign array = '' | split: ','           -%}
+{%-   for item in dummy                        -%}
+{%-	    if forloop.index0 == index             -%}
+{%-	      assign array = array | push: var     -%}
+{%-     else                                   -%}
+{%-       assign array = array | push: item    -%}
+{%-     endif                                  -%}
+{%-   endfor                                   -%}
+
+{%- endunless                                  -%}
+
+{%-	assign probe = var | size                  -%}
+{%-	assign size = probes | size                -%}
+{%- if var contains probe                      -%}
+
+{%-   if size == 0                             -%}
+{%-	    assign seq = seq | plus: 1             -%}
+{%-   endif                                    -%}
+
+{%-   assign index = index | plus: 1           -%}
+{%-   assign probes = probes | push: probe     -%}
+{%-   include primes/bond.liquid index=index   -%}
+
+{%- else                                       -%}
+
+{%-   for item in array reversed               -%}
+{%-     assign _bond = _bond | push: item      -%}
+{%-   endfor                                   -%}
+
+{%-   if prime > 1000 and order < _brake       -%}
+{%-     include primes/_bond.liquid            -%}
+{%-   endif                                    -%}
+
+{%- endif                                      -%}

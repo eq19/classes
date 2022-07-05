@@ -1,0 +1,13 @@
+{%- assign depth = 0                  -%}
+{%- assign seq = depth | plus: 4      -%}
+
+{%- assign primes = '' | split: ','   -%}
+{%- assign limit = 100 | times: 100   -%}
+
+{%- unless nodes                      -%}
+{%-   capture nodes -%}{%- endcapture -%}
+{%-   include data/primes.liquid      -%}
+{%- endunless                         -%}
+
+{%- assign nodes = nodes     
+      | replace: "(0,)[]", "(0,0)[]"  -%}
