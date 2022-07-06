@@ -10,8 +10,8 @@ input_types:
 - radio
 - number
 - submit
-- checkbox
 - textarea
+- checkbox
 
 form_engines:
 - formspree
