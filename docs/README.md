@@ -1,10 +1,3 @@
----
-layout: recipe
-title: When to send 4xx or 5xx codes
-category: Methods
-author: joshua thijssen
-author_email: jthijssen@noxlogic.nl
----
 |[![The HYIP Project](https://avatars1.githubusercontent.com/u/8466209?v=10&s=20)](https://github.com/hyip) |This [repo](https://github.com/hyipworld/hyipworld.github.io "Repository") is courtesy of [The Quantum Project](https://github.com/eq19 "Primes Recmbination Program"). Find all of them on [The Project Map](https://github.com/eq19/info/wiki/maps#project-map "Project Mapping").|[![The HYIP Project](https://tophyipmonitor.files.wordpress.com/2015/06/ant.png?w=20)](https://tophyipmonitor.wordpress.com/hyip-forums/nature-4/#main) |
 |:----|----|----:|
 
