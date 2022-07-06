@@ -50,7 +50,7 @@ These primes are naturally distributed in three (3) forms of 12's multiplication
  -----+-----+---------
  ```
 
-Now we are going to see what is the purpose. Let's enter the journey of making **10<sup>n</sup> numbers becoming 10<sup>n</sup> primes** by the Δ1 flowing within the prime pairs.
+Now we are going to see what the purpose is. Let's enter the journey of making **10<sup>n</sup> numbers becoming 10<sup>n</sup> primes** by the Δ1 flowing within the prime pairs.
 
 ## 1st Step: Q(10, 30)
 
