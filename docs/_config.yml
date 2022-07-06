@@ -108,6 +108,12 @@ defaults:
       type: "feeds"
     values:
       layout: "feeds"
+ -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
   -
     scope:
       path: ""
