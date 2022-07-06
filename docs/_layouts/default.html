@@ -8,9 +8,16 @@ layout: tasks/compress
 <!DOCTYPE html>
 <html lang="{{ lang }}" dir="{{ direction }}">
     <head>
-{% include posts/head_base.html %}
-{% include posts/head_recipe.html %}
-</head>
+        {% include leads/metadata.liquid %}
+        {% include leads/twitter_cards.liquid %}
+        {% include leads/opengraph.liquid %}
+        {% include leads/links.liquid %}
+        {% include extra/rest/styles.liquid %}
+        {%- include leads/title.liquid -%}
+        {%- include leads/script.liquid -%}
+        {%- include leads/schema.liquid -%}
+        {% include leads/gtag.liquid %}
+    </head>
 <body>
 <div class="page">
 <section id="blogArchive">      
