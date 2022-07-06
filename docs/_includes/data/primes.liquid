@@ -1,0 +1,20 @@
+{%- assign id = 0                            -%}
+{%- assign group = 1                         -%}
+{%- assign baseurl = "/"                     -%}
+
+{%- if site.data.roots                       -%}
+
+{%-   for item in site.data.roots            -%}
+{%-     assign prime = item.key | times: 1   -%}
+{%-     if prime < limit                     -%}
+{%-       include core/parts.liquid          -%}
+{%-     endif                                -%}
+{%-   endfor                                 -%}
+
+{%- else                                     -%}
+
+{%-   assign prime = 2                       -%}
+{%-   include core/parts.liquid              -%}
+{%-   include data/_primes.liquid            -%}
+
+{%- endif                                    -%}

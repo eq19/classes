@@ -1,0 +1,18 @@
+{%- assign tag = ''                       -%}
+{%- assign grammar = ''                   -%}
+{%- assign aria_flowto = ''               -%}
+
+{%- assign _bond = '' | split: ','        -%}
+{%- assign probes = '' | split: ','       -%}
+
+{%- assign primes = primes | push: prime  -%}
+{%- assign order = primes | size          -%}
+{%- assign probe = order                  -%}
+
+{%- if primes contains probe              -%}
+{%-   include primes/bond.liquid          -%}
+{%- endif                                 -%}
+
+{%- if prime < 1000 or order >= _brake    -%}
+{%-   include primes/_bond.liquid         -%}
+{%- endif                                 -%}
