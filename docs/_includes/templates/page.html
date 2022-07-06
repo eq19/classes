@@ -1,5 +1,4 @@
-{%- assign themePath = '_includes/templates/leads' -%}
-{%- if themePath -%}
+{%- if titles contains base -%}
 	{%- include templates/leads{{ base }}.html -%}
 {%- else -%}			
 	{%- include templates/leads/feed.html -%}
