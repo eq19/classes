@@ -5,7 +5,7 @@
 			{% if page.needs_anwser %}
 				{% include needs_answer.html %}
 			{% endif %}
-			{{ content }}
+			{%- comment %}{{ content }}{% endcomment -%}
 			<hr>
 			{% include disqus_load.html %}
 		</div>
