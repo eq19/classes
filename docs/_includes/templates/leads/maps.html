@@ -5,6 +5,28 @@
 					<div class="grid_8">
 						<div class="wrap_10">
 							<h2 class="header_2 indent_3">Topics</h2>
+							{% for post in site.posts reversed %}
+							{% if post.path contains page.url %}
+							<div class="box_6">
+								<div class="put-left">
+									<div class="caption">
+										<a href="{{ page.url }}{{ post.title | downcase}}"><img src="/assets/images/index-3_img01.jpg" alt="{{ page.title }} :: {{ post.title }}"/></a>
+										<p class="text_2 color_1">
+											{{ page.title | downcase}} :: {{ post.title }}
+										</p>
+									</div>
+								</div>
+								<div class="caption">
+									<h3 class="text_2 color_2"><a href="{{ page.url }}{{ post.title | downcase}}">{{ post.title | capitalize }}</a></h3>
+									<p class="text_3">
+										{{ post.excerpt }}
+									</p>
+									<a class="btn_2" href="{{ page.url }}{{ post.title | downcase}}">read more</a>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							{% endif %}
+							{% endfor %}
 							<ul class="list_2 text_3 color_5">
 								<li><a href="/">Home</a>
 									<ul>
