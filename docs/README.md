@@ -187,4 +187,3 @@ You may agree that all of this algorithm seems like a primes orchestra. By sourc
 This Δ(19 vs 18) scenario will duplicate the loops of 618 as _π(89²) of 1000 Primes_. Thus its behaviour will return to _168 Primes of π(1000)_  out of the adjacent scheme.
 
 So the further process would always continously become the same algorithm. 
-
