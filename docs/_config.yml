@@ -209,11 +209,14 @@ flow_labels:
 # https://stackoverflow.com/a/30828197/4058484
 
 # baseurl: ""
+# baseurl: ""
+username: eq19
+organization: feedmapping
+
 basedir: _feeds
-username: chetabahana
-organization: marketleader
-project_link: https://www.chetabahana.com/
-repository: chetabahana/chetabahana.github.io
+repository: eq19/eq19.github.io
+project_link: https://www.eq19.com/
+
 
 # Site Metadata
 # https://stackoverflow.com/a/55094996/4058484
