@@ -212,7 +212,6 @@ flow_labels:
 # baseurl: ""
 username: eq19
 organization: feedmapping
-
 basedir: _feeds
 repository: eq19/eq19.github.io
 project_link: https://www.eq19.com/
