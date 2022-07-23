@@ -20,7 +20,7 @@ form_engines:
 
 debug:
   dist: false
-  compress: true
+  compress: false
   shortcodes: true
 
 # Repository Settings
